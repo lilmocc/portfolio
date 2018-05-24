@@ -1,0 +1,24 @@
+body {
+    background: lightblue;
+    background: -webkit-linear-gradient(135deg, purple, lightblue);
+    background: -o-linear-gradient(135deg, purple, lightblue);
+    background: -moz-linear-gradient(135deg, purple, lightblue);
+    background: linear-gradient(135deg, purple, lightblue);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+
+p {
+    font-family: 'Muli', sans-serif;
+    color: white;
+    text-transform: uppercase;
+}
